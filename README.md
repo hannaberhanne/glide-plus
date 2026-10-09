@@ -1,5 +1,9 @@
 # Glide+ 
 
+**Live app:** https://glide-topaz.vercel.app
+
+This is my copy of our team repository, [JoeyDiMart/glide-capstone](https://github.com/JoeyDiMart/glide-capstone), with the full commit history. I was product lead on the four-person team listed below.
+
 ## Project Description
 Glide+ is an AI-powered student life platform that helps college students manage academics, habits, and social activities in one place. It combines:
 - Adaptive planning and scheduling (manual + AI-assisted)
